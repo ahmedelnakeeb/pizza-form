@@ -1,0 +1,79 @@
+/*form start*/
+.pizza_form{
+	margin: 0 auto;
+	width: 500px;
+	height: auto;
+}
+/*form end*/
+/*form header start*/
+.form_header{
+	background-color: #f2f2f2;
+	height: 100px;
+}
+.form_header h3{
+	display: inline-block;
+	color: #0000e6;
+	margin-right: 20px;
+	margin-left: 20px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Prosto One', cursive;
+    font-family: 'Baloo Bhaijaan', cursive;
+    font-family: 'Baloo', cursive;
+    font-weight: bold;
+}
+.form_header img{
+	display: inline-block;
+	width: 200px;
+	height: 90px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+/*form header end*/
+/*form body start*/
+.form_body{
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	background-color: #e6e6e6;
+	border-top: 1px solid #a6a6a6;
+}
+.order{
+	width: 400px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.select{
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+.checkbox label{
+	display: block;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-weight: bold;
+}
+.checkbox{
+	width: 150px;
+	display: inline-block;
+}
+.qty_class{
+	width: 150px;
+	display: inline-block;
+	margin-left: 80px;
+}
+.qty{
+	display: inline;
+	width: 100px;
+	font-weight: bolder;
+}
+.order button{
+	width: 400px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-family: 'Comfortaa', cursive;
+    font-family: 'Prosto One', cursive;
+    font-family: 'Baloo Bhaijaan', cursive;
+    font-family: 'Baloo', cursive;
+    font-weight: bold;
+}
+/*form body end*/
